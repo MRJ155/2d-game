@@ -11,7 +11,7 @@ This project focuses on core game programming concepts such as rendering, user i
 - Game loop with updates and rendering
 - Collision detection
 - Object-oriented structure (Player, Game, etc.)
-- Lightweight and beginner-friendly (no external libraries)
+- Lightweight and beginner-friendly
 
 ---
 
